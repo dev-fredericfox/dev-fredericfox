@@ -1,3 +1,5 @@
+My Bigger Repos are Private, please ask for access!
+
 - 👋 Hi, I’m @dev-fredericfox
 - 👀 I’m a Full-Stack Typescript developper.
 - 🌱 I’m currently working with Mongo, Express, React and Node.
